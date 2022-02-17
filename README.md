@@ -5,6 +5,11 @@ A Sample Swing Desktop Application
 A sample Swing Desktop Application / MDI (Multi Documents Interface) to help developers quickly start new project... 
 The application is pre-configured with Maven, Log4j and auto load properties files under `resources` folder.  
 
+## Docs
+- https://docs.oracle.com/javase/tutorial/uiswing/components/toplevel.html
+- https://www3.ntu.edu.sg/home/ehchua/programming/java/j4a_gui.html
+- https://stackoverflow.com/questions/46539338/how-to-resize-jframe-and-show-jpanel-and-or-its-controls-with-a-button
+
 ## Dev tools
 * Java 
 * JDK 1.8
