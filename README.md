@@ -11,6 +11,7 @@ The application is pre-configured with Maven, Log4j and auto load properties fil
 - https://www.geeksforgeeks.org/java-swing-internal-frame-with-examples/
 - https://docs.oracle.com/javase/tutorial/uiswing/components/dialog.html
 - https://stackoverflow.com/questions/27207887/java-jbutton-opening-another-jframe-that-i-can-input-into
+- http://dummyscodes.blogspot.com/2015/06/joptionpane-with-multiple-inputs.html
 - https://stackoverflow.com/questions/46539338/how-to-resize-jframe-and-show-jpanel-and-or-its-controls-with-a-button
 - https://stackoverflow.com/questions/10834040/joptionpane-with-multiple-inputs-on-different-lines
 
